@@ -1,7 +1,8 @@
 # Good README Generator
 
 ## Description
-Creates a README based on prompts from the console through node
+Creates a README file through prompts via the terminal.
+
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -12,24 +13,24 @@ Creates a README based on prompts from the console through node
 
 
 ## Installation
-clone from github then get inquirer npm
+Clone repo, npm inquirer, node
 
 ## Usage
-open the terminal and type 'node index.js'
+type 'node index.js' into the terminal and then answer the prompts about your projects
 
 ## Contribution
-nope
+none
 
 ## License
-This project is licensed under The Unlicense - see the  file for details
+This project is licensed under none - see the  file for details
 
-##Contributing
+## Contributing
 undefined
 
 ## Tests
-nope
+none
 
 ## Questions
 Please contact me with any questions 
-GitHub: apemint
+ [GitHub](https://github.com/apemint)
 Email: escobar.andres.alfonso@gmail.com

@@ -7,6 +7,7 @@ const generateReadMe = (answers) =>
 
 ## Description
 ${answers.description}
+
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -28,7 +29,7 @@ ${answers.contribution}
 ## License
 This project is licensed under ${answers.license} - see the  file for details
 
-##Contributing
+## Contributing
 ${answers.contributing}
 
 ## Tests
@@ -36,7 +37,7 @@ ${answers.tests}
 
 ## Questions
 Please contact me with any questions 
-GitHub: ${answers.github}
+ [GitHub](https://github.com/${answers.github})
 Email: ${answers.email}`;
 
 
@@ -66,17 +67,20 @@ inquirer
             type: 'list',
             name: 'license',
             message: 'Any licenses used?',
-            choices: ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'The Unlicense'],
+            choices: ['none','GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'The Unlicense'],
+            default: 'none',
         },
         {
             type: 'input',
             name: 'contribution',
             message: 'Any contribution guidelines?',
+            default: 'none',
         },
         {
             type: 'input',
             name: 'tests',
             message: 'Tests?',
+            default: 'none',
         },
         {
             type: 'input',
