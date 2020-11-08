@@ -1,0 +1,23 @@
+{
+  "name": "goodReadMeGenerator",
+  "version": "1.0.0",
+  "description": "week 9 Read me generator (node)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apemint/goodReadMeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apemint/goodReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/apemint/goodReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
