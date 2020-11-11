@@ -1,7 +1,7 @@
-
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateReadMe = (answers) =>
+
+const generateReadMe = (answers) => 
 
     `# ${answers.title}
 
@@ -11,11 +11,9 @@ ${answers.description}
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
-[Contribution](#contribution)
 [License](#license)
 [Contributing](#contributing)
 [Tests](#tests)
-
 
 ## Installation
 ${answers.installation}
@@ -23,11 +21,8 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## Contribution
-${answers.contribution}
-
 ## License
-This project is licensed under ${answers.license} - see the  file for details
+This project is licensed under [${answers.license}](${answers.licenseURL}) - see the  file for details
 
 ## Contributing
 ${answers.contributing}
@@ -37,9 +32,8 @@ ${answers.tests}
 
 ## Questions
 Please contact me with any questions 
- [GitHub](https://github.com/${answers.github})
+[GitHub](https://github.com/${answers.github})
 Email: ${answers.email}`;
-
 
 inquirer
     .prompt([
@@ -72,8 +66,14 @@ inquirer
         },
         {
             type: 'input',
-            name: 'contribution',
-            message: 'Any contribution guidelines?',
+            name: 'licenseURL',
+            message: 'Input License URL if available',
+            default: '',
+        },
+        {
+            type: 'input',
+            name: 'contributing',
+            message: 'Any contributing guidelines?',
             default: 'none',
         },
         {
