@@ -5,15 +5,15 @@
 This app uses node.js and npm Inquirer to mainstream the creation of your project's README.md file. This is done by prompting the user via the console on components such as the project title, contribution guidelines, licenses used etc. The app then takes those responses and pushes them into a formatted readme file.
 
 ## Deployed Project
-[Repo Link](https://github.com/apemint/goodreadmegenerator)
+[Repo Link](https://github.com/apemint/goodreadmegenerator)  
 [Demo Video](https://drive.google.com/file/d/13elDFe5VdCaW3fLfu9O9DXraPrE8_cds/view)
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
 
 ## Installation
 To use this application, install node.js. After installing node, and cloning the repo, open the terminal at the file location. In the terminal, type "npm init -y" and "npm install" this downloads any required node packages. If you have trouble, type in the terminal "npm install inquirer" to directly install inquirer, the main package used in this app.
@@ -33,7 +33,7 @@ none
 ## Questions
 Please contact me with any questions or compliments! 
 
-[GitHub](https://github.com/apemint)
-Email: escobar.andres.alfonso@gmail.com
-[twitter](https://twitter.com/apemint)
+[GitHub](https://github.com/apemint)  
+Email: escobar.andres.alfonso@gmail.com  
+[twitter](https://twitter.com/apemint)  
 
