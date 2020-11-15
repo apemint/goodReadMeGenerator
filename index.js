@@ -8,6 +8,9 @@ const generateReadMe = (answers) =>
 ## Description
 ${answers.description}
 
+## Deployed Project
+${answers.deployedProject}
+
 ## Table of Contents
 [Installation](#installation)
 [Usage](#usage)
@@ -31,9 +34,10 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-Please contact me with any questions 
+Please contact me with any questions! 
 [GitHub](https://github.com/${answers.github})
-Email: ${answers.email}`;
+Email: ${answers.email}
+`;
 
 inquirer
     .prompt([
@@ -101,6 +105,7 @@ inquirer
     ])
     .then((answers) => {
         const fileName = 'README.md';
+        
         fs.writeFile(fileName, generateReadMe(answers), (err) => {
             if (err) {
                 console.error(err);
@@ -110,5 +115,4 @@ inquirer
         });
 
     });
-
 
