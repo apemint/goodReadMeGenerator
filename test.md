@@ -1,7 +1,8 @@
-# [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) hello
+#  good read me
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-yes
+inquirer promps readme
 
 ## Deployed Project
 none
@@ -14,20 +15,20 @@ none
 [Tests](#tests)
 
 ## Installation
-yknow
+node and inquirer
 
 ## Usage
-yup
+just use it
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-This project is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) - see the  file for details
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under [MIT License](https://choosealicense.com/licenses/mit/) - see the  file for details
 
 ## Contributing
-nope
+none
 
 ## Tests
-nope
+none
 
 ## Questions
 Please contact me with any questions! 

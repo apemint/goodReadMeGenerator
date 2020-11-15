@@ -128,7 +128,7 @@ init() //runs the whole thing
 const generateReadMe = (answers) =>
 
     `#  ${answers.title}
-    ${licenseBadge}
+${licenseBadge}
 
 ## Description
 ${answers.description}
