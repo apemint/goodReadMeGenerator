@@ -1,8 +1,8 @@
-#  good read me
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+#  Title
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description
-inquirer promps readme
+Description
 
 ## Deployed Project
 none
@@ -15,17 +15,17 @@ none
 [Tests](#tests)
 
 ## Installation
-node and inquirer
+Install it
 
 ## Usage
-just use it
+use it
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-This project is licensed under [MIT License](https://choosealicense.com/licenses/mit/) - see the  file for details
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+This project is licensed under [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/) - see the  file for details
 
 ## Contributing
-none
+Not really
 
 ## Tests
 none
