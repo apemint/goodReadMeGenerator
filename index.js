@@ -137,11 +137,11 @@ ${answers.description}
 ${answers.deployedProject}
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
 
 ## Installation
 ${answers.installation}
@@ -160,7 +160,7 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-Please contact me with any questions! 
-[GitHub](https://github.com/${answers.github})
-Email: ${answers.email}
+Please contact me with any questions!   
+[GitHub](https://github.com/${answers.github})  
+Email: ${answers.email}  
 `;
