@@ -6,7 +6,7 @@ This app uses node.js and npm Inquirer to mainstream the creation of your projec
 
 ## Deployed Project
 [Repo Link](https://github.com/apemint/goodreadmegenerator)
-[Demo Video](https://drive.google.com/file/d/126P5v8DAm2Yjo817ljcZWoClClOwowSk/view)
+[Demo Video](https://drive.google.com/file/d/13elDFe5VdCaW3fLfu9O9DXraPrE8_cds/view)
 
 ## Table of Contents
 [Installation](#installation)

@@ -1,8 +1,8 @@
-#  Title
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+#  Hello
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Description
+description
 
 ## Deployed Project
 none
@@ -15,17 +15,17 @@ none
 [Tests](#tests)
 
 ## Installation
-Install it
+instll
 
 ## Usage
 use it
 
 ## License
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-This project is licensed under [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/) - see the  file for details
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under [MIT License](https://choosealicense.com/licenses/mit/) - see the  file for details
 
 ## Contributing
-Not really
+none
 
 ## Tests
 none
@@ -33,4 +33,4 @@ none
 ## Questions
 Please contact me with any questions! 
 [GitHub](https://github.com/apemint)
-Email: escobar.andres.alfonso@gmail.com
+Email: escobar.andrs.alfonso@gmail.com
